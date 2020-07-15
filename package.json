@@ -39,13 +39,15 @@
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/BenTuTu/practice-react-hooks.git"
   },
   "bugs": {
     "url": ""
   },
-  "homepage": "",
-  "dependencies": {},
+  "homepage": "https://github.com/BenTuTu/practice-react-hooks.git",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  },
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
